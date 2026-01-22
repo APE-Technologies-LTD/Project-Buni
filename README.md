@@ -19,4 +19,4 @@ To move from users to architects. We are a cohort of 21 developers and specialis
 Participation is currently focused on our 2026 cohort. However, as an open-source project, we welcome audits, feedback, and pull requests from the wider Bitcoin community.
 
 ---
-*Built with ❤️ in Kenya. Decentralized by design.*
+*Built with Love. Decentralized by design.*
